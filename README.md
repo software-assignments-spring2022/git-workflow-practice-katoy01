@@ -5,11 +5,19 @@
 # Thoughts
 I find this article interesting because it's _insane_ think about how there have been no unions in the game industry in the U.S. until December 2021!
 ```
-In contrast to Europe, unions are rare in the North American gaming industry. American employees are often subjected to unexpected layoffs and brutal “crunch,” in which they are required to work long hours and weekends for weeks at a time to ensure games do not miss deadlines.
+In contrast to Europe, unions are rare in the North American gaming
+industry. American employees are often subjected to unexpected layoffs and
+brutal “crunch,” in which they are required to work long hours and weekends
+for weeks at a time to ensure games do not miss deadlines.
 ...
-In December, workers at the independent game developer Vodeo Games, which has about a dozen employees, became the first video game studio union in North America.
+In December, workers at the independent game developer Vodeo Games, which
+has about a dozen employees, became the first video game studio union in
+North America.
 ```
-And gaming companies are notorious for terrible "bro-culture" working environemnts, so to speak, where many sexual assault victims have stood up in the wake of the Me Too movement in the past couple years. Most notibally in Riot Games and Activision Blizzard. 
+And gaming companies are notorious for terrible "bro-culture" working
+environemnts, so to speak, where many sexual assault victims have stood up
+in the wake of the Me Too movement in the past couple years. Most notibally
+in Riot Games and Activision Blizzard. 
 ```
 Activision, which Microsoft on Tuesday said it would buy for nearly $70 billion, has been dealing with months of employee unrest. Before the company incited anger by not keeping the Raven workers in December, employees had been pushing for labor organizing and better treatment since July, when a California employment agency sued Activision, accusing it of fostering a culture where women were routinely sexually harassed and discriminated against.
 ```
